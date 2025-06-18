@@ -123,4 +123,4 @@ Entrepreneur & engineer passionate about **scalable digital solutions** and **hu
 </div>
 
 ```markdown
-![Footer](https://github.com/TON_USERNAME/TON_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Footer](https://github.com/TON_USERNAME/Dieu-Merci-Ndenga/blob/output/github-contribution-grid-snake.svg)
