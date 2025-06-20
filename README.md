@@ -10,8 +10,10 @@
 
 ## 🚀 About Me  
 Entrepreneur & engineer passionate about **scalable digital solutions** and **human-centered design**. I lead [Tektra, Inc.](https://tektra.netlify.app), and i'm focused on:  
-- **Full-stack development** (MERN/MEAN, APIs, cloud systems)  
-- **UI/UX-driven products** that solve real problems  
+- **Full-stack development**
+- **Mobile development**
+- **Machine Learning & Data Science**
+- **UI/UX-driven products** 
 - **Humanitarian tech** (risk management, crisis response tools)  
 
 *Belief:* "Technology should empower, not just entertain."  
@@ -28,6 +30,7 @@ Entrepreneur & engineer passionate about **scalable digital solutions** and **hu
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)
 
 **📌 Backend & Databases:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -40,6 +43,7 @@ Entrepreneur & engineer passionate about **scalable digital solutions** and **hu
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white&style=for-the-badge)
 ![Nim](https://img.shields.io/badge/-Nim-FFE953?logo=nim&logoColor=black&style=for-the-badge)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=amazondynamodb&logoColor=white&style=for-the-badge)
@@ -65,21 +69,27 @@ Entrepreneur & engineer passionate about **scalable digital solutions** and **hu
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![API](https://img.shields.io/badge/-API-FF6C37?logo=fastapi&logoColor=white&style=for-the-badge)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
 
-**🤖 Machine Learning & AI:**  
+**📊 Data Science & ML:**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=scikitlearn&logoColor=white&style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
 
 **☁️ Hosting & Serverless:**  
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&style=for-the-badge)](https://heroku.com)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B9?logo=netlify&logoColor=white&style=for-the-badge)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge)
 
 **🌐 No-Code & Web Builders**  
 ![Webflow](https://img.shields.io/badge/-Webflow-4353FF?logo=webflow&logoColor=white&style=for-the-badge)
@@ -102,9 +112,11 @@ Entrepreneur & engineer passionate about **scalable digital solutions** and **hu
 
 ---
 
-### 📬 Let's Connect    
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](Lien_LinkedIn)  
-[![Email](https://img.shields.io/badge/📩_Email-D14836?style=for-the-badge)](mailto:ton@email.com)  
+## 📬 Let's Connect  
+[![Email](https://img.shields.io/badge/📩_Email-D14836?style=for-the-badge)](mailto:ton@email.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](Lien_LinkedIn)
+[![X (Twitter)](https://img.shields.io/badge/-X(Twitter)-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/votreprofil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://votreportfolio.com)
 
 ---
 
@@ -117,10 +129,12 @@ Entrepreneur & engineer passionate about **scalable digital solutions** and **hu
 
 ---
 <div align="center">
-  ### My Favorite Quote  
-  *"The best code is the one that changes lives."*  
-  
+
+### My Favorite Quote<br>
+*The best code is the one that changes lives.*  
+
 </div>
 
 ```markdown
-![Footer](https://github.com/TON_USERNAME/Dieu-Merci-Ndenga/blob/output/github-contribution-grid-snake.svg)
+
+![Footer](https://github.com/Dieu-Merci-Ndenga/Dieu-Merci-Ndenga/blob/output/github-contribution-grid-snake.svg)
