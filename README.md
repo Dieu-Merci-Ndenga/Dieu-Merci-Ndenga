@@ -135,6 +135,9 @@ Entrepreneur & engineer passionate about **scalable digital solutions** and **hu
 
 </div>
 
-```markdown
-
+<div align="center">
+  
 ![Footer](https://github.com/Dieu-Merci-Ndenga/Dieu-Merci-Ndenga/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+```markdown
