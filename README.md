@@ -136,5 +136,3 @@ Entrepreneur & engineer passionate about **scalable digital solutions** and **hu
 </div>
 
 </div>
-
-```markdown
