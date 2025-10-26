@@ -134,6 +134,7 @@ Entrepreneur & engineer passionate about **scalable digital solutions** and **hu
 *The best code is the one that changes lives.*  
 
 ![Snake animation](https://raw.githubusercontent.com/Dieu-Merci-Ndenga/Dieu-Merci-Ndenga/output/dist/github-contribution-grid-snake.svg)
+
 </div>
 
 </div>
