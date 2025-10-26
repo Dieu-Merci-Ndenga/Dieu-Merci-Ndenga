@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write   # permet au bot de créer/pousser la branche output
 
 jobs:
   build:
