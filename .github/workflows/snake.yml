@@ -2,32 +2,29 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # exécute toutes les 12h
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write   # <— permet au bot de créer/pousser la branche output
 
 jobs:
   build:
-    name: Generate snake animation
     runs-on: ubuntu-latest
-
     steps:
-      # Étape 1 : Récupère le code du repo
       - name: Checkout
         uses: actions/checkout@v3
 
-      # Étape 2 : Génère le serpent
-      - name: Generate snake SVG
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          github_user_name: Dieu-Merci-Ndenga
+          outputs: dist/github-contribution-grid-snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Étape 3 : Publie le résultat dans la branche output
-      - name: Push generated snake to output branch
-        uses: crazy-max/ghaction-github-pages@v2
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
           build_dir: dist
