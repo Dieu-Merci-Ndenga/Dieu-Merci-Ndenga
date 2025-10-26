@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Dieu Merci Ndenga  
-### Founder & CEO @ [Tektra, Inc.](https://tektra.netlify.app) | Certified Software Engineer | Humanitarian | Risk Management Expert
+### Founder & CEO @ [Tektra, Inc.](https://tektra.netlify.app) | Software Engineer | Humanitarian | Risk Management Expert
 *Building tech with purpose — where innovation meets social impact.*  
 
 </div>
@@ -113,8 +113,8 @@ Entrepreneur & engineer passionate about **scalable digital solutions** and **hu
 ---
 
 ## 📬 Let's Connect  
-[![Email](https://img.shields.io/badge/📩_Email-D14836?style=for-the-badge)](mailto:ton@email.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](Lien_LinkedIn)
+[![Email](https://img.shields.io/badge/📩_Email-D14836?style=for-the-badge)](mailto:dmbndenga@email.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)]([Lien_LinkedIn](https://linkedin.com/in/dieu-merci-ndenga-493b28273))
 [![X (Twitter)](https://img.shields.io/badge/-X(Twitter)-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/votreprofil)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://votreportfolio.com)
 
