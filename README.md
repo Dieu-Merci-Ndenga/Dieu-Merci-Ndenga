@@ -135,7 +135,6 @@ Entrepreneur & engineer passionate about **scalable digital solutions** and **hu
 
 
 ![Snake animation](https://raw.githubusercontent.com/Dieu-Merci-Ndenga/Dieu-Merci-Ndenga/output/github-contribution-grid-snake.svg)
-![Snake animation](https://raw.githubusercontent.com/Dieu-Merci-Ndenga/Dieu-Merci-Ndenga/output/dist/github-contribution-grid-snake.svg)
 
 
 </div>
