@@ -1,3 +1,12 @@
+<!-- Masquer le bloc par défaut -->
+<img src="https://1x1px.me/transparent.gif" width="0" height="0"/>
+
+<!-- Ton contenu personnalisé -->
+## 👋 Bienvenue sur mon profil !
+Voici mon animation Snake 🐍
+
+![Snake animation](https://raw.githubusercontent.com/Dieu-Merci-Ndenga/Dieu-Merci-Ndenga/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 
 # 👋 Hi, I'm Dieu Merci Ndenga  
@@ -135,8 +144,6 @@ Entrepreneur & engineer passionate about **scalable digital solutions** and **hu
 
 
 </div>
-
-![Snake animation](https://raw.githubusercontent.com/Dieu-Merci-Ndenga/Dieu-Merci-Ndenga/output/github-contribution-grid-snake.svg)
 
 
 </div>
