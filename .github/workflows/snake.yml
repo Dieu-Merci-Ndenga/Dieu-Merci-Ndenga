@@ -26,20 +26,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Apply Dark GitHub colors
-        run: |
-          if [ -f dist/github-contribution-grid-snake.svg ]; then
-            # changer la couleur du serpent
-            sed -i 's/fill="#9be9a8"/fill="#58a6ff"/g' dist/github-contribution-grid-snake.svg
-            # ajouter un fond sombre
-            sed -i 's/<svg /<svg style="background-color:#0d1117"/' dist/github-contribution-grid-snake.svg
-            # changer la couleur des cases vides
-            sed -i 's/fill="#ebedf0"/fill="#161b22"/g' dist/github-contribution-grid-snake.svg
-          else
-            echo "SVG file not found!"
-            exit 1
-          fi
-
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
