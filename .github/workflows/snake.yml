@@ -2,11 +2,11 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # toutes les 12h
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write   # permet au bot de créer/pousser la branche output
+  contents: write
 
 jobs:
   build:
@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
+      - name: Create dist folder
+        run: mkdir -p dist
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -25,12 +28,17 @@ jobs:
 
       - name: Apply Dark GitHub colors
         run: |
-          # changer la couleur du serpent
-          sed -i 's/fill="#9be9a8"/fill="#58a6ff"/g' dist/github-contribution-grid-snake.svg
-          # ajouter un fond sombre pour ressembler au GitHub Dark
-          sed -i 's/<svg /<svg style="background-color:#0d1117"/' dist/github-contribution-grid-snake.svg
-          # optionnel : changer la couleur des cases vides si besoin
-          sed -i 's/fill="#ebedf0"/fill="#161b22"/g' dist/github-contribution-grid-snake.svg
+          if [ -f dist/github-contribution-grid-snake.svg ]; then
+            # changer la couleur du serpent
+            sed -i 's/fill="#9be9a8"/fill="#58a6ff"/g' dist/github-contribution-grid-snake.svg
+            # ajouter un fond sombre
+            sed -i 's/<svg /<svg style="background-color:#0d1117"/' dist/github-contribution-grid-snake.svg
+            # changer la couleur des cases vides
+            sed -i 's/fill="#ebedf0"/fill="#161b22"/g' dist/github-contribution-grid-snake.svg
+          else
+            echo "SVG file not found!"
+            exit 1
+          fi
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.6.0
