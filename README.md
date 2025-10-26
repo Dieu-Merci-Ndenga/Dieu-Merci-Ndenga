@@ -122,7 +122,7 @@ Entrepreneur & engineer passionate about **scalable digital solutions** and **hu
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dieu-Merci-Ndenga&show_icons=true&theme=merko&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dieu-Merci-Ndenga&show_icons=true&theme=merko&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieu-Merci-Ndenga&layout=compact&theme=merko&hide_border=true)  
 
 </div>
