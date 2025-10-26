@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # permet au bot de créer/pousser la branche output
+  contents: write
 
 jobs:
   build:
@@ -20,9 +20,7 @@ jobs:
         with:
           github_user_name: Dieu-Merci-Ndenga
           outputs: dist/github-contribution-grid-snake.svg
-          snake_color: "#58a6ff"        # bleu GitHub pour le serpent
-          background_color: "#0d1117"   # fond dark GitHub
-          block_color: "#161b22"        # couleur des cases vides
+          args: "--snake-color #58a6ff --background-color #0d1117 --block-color #161b22"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
