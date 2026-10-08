@@ -176,7 +176,7 @@ Habit tracking SaaS with analytics and subscription features.
 
 | Focus Area              | Current Objective                      |
 | ----------------------- | -------------------------------------- |
-| 🚀 SaaS Development     | Building production-ready applications |
+| 🚀 App Development     | Building production-ready applications |
 | ⚙️ Backend Engineering  | API architecture & scalable systems    |
 | 🧠 TypeScript Ecosystem | Advanced patterns & clean architecture |
 | 📈 Performance          | Optimization & developer experience    |
