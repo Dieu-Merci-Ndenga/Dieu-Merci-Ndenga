@@ -55,7 +55,7 @@
 
 ### Databases & BaaS
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase,supabase,prisma&theme=dark" />
 
 ### UI/UX Design & API Testing
 
