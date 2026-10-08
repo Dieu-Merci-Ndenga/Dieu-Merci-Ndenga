@@ -66,7 +66,7 @@
 
 ### DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=git,githubactions,linux,postman,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,bash,vercel,netlify,vite&theme=dark" />
 
 </div>
 
