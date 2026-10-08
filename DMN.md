@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dieu-Merci%20Ndenga&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20TypeScript%20Developer%20%7C%20SaaS%20%7C%20Automation%20Builder&descAlignY=62&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dieu-Merci%20Ndenga&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Mobile%20Engineer%20|%20UI/UX%20Designer&descAlignY=62&descAlign=50"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=800&lines=Building+production-ready+web+applications;Next.js+%2B+NestJS+%2B+TypeScript;Focused+on+real-world+SaaS+products;Based+in+South+Korea" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=800&lines=I+build+scalable+web+platforms;and+cross-platform+mobile+apps;using+modern+JavaScript,+Python,+and+Flutter+ecosystems;Based+in+South+Korea" alt="Typing SVG" />
 </p>
 
 <br>
@@ -28,13 +28,13 @@
 
   ```ts
   const dieuMerci = {
-    role: "Full-Stack TypeScript Developer",
+    role: "Full-Stack & Mobile Engineer",
     location: "South Korea 🇰🇷",
     focus: [
       "SaaS Applications",
       "Automation Tools",
       "Backend Architecture",
-      "Modern Web Platforms"
+      "Modern Cross-Platforms"
     ],
     openTo: [
       "Freelance Opportunities",
