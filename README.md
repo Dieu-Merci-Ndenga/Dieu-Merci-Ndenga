@@ -207,7 +207,7 @@ Habit tracking SaaS with analytics and subscription features.
 
 <div align="center">
   
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote for Us
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
