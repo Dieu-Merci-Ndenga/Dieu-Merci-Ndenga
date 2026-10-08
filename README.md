@@ -68,7 +68,154 @@
 
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions,bash,vercel,netlify,vite&theme=dark" />
 
+| Catégorie | Outils & Technologies |
+| :--- | :--- |
+| **Languages & Web** | <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,html,css&theme=dark" /> |
+| **Frameworks & Libraries** | <img src="https://skillicons.dev/icons?i=nextjs,react,angular,nodejs,express,django,flask,laravel,symfony,bootstrap,tailwind&theme=dark" /> |
+| **Mobile Development** | <img src="https://skillicons.dev/icons?i=react,flutter,dart&theme=dark" /> |
+| **Databases & BaaS** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase,supabase,prisma&theme=dark" /> |
+| **UI/UX Design & API Testing** | <img src="https://skillicons.dev/icons?i=figma&theme=dark" /> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=postman&theme=dark" /> <img src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg" width="48" height="48" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,githubactions,bash,vercel,netlify,vite&theme=dark" /> |
+
+
 </div>
+
+<div align="center">
+  <div style="display: flex; justify-content: space-around; width: 100%; margin-bottom: 20px;">
+    <div style="flex: 1; text-align: center;">
+      <h3>Languages & Web</h3>
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,python&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=php,html,css&theme=dark" />
+    </div>
+    <div style="flex: 1; text-align: center;">
+      <h3>Frameworks & Libraries</h3>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,angular&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=flask,laravel,symfony&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=bootstrap,tailwind&theme=dark" />
+    </div>
+  </div>
+
+  <div style="display: flex; justify-content: space-around; width: 100%; margin-bottom: 20px;">
+    <div style="flex: 1; text-align: center;">
+      <h3>Mobile Development</h3>
+      <img src="https://skillicons.dev/icons?i=react,flutter,dart&theme=dark" />
+    </div>
+    <div style="flex: 1; text-align: center;">
+      <h3>Databases & BaaS</h3>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=firebase,supabase,prisma&theme=dark" />
+    </div>
+  </div>
+
+  <div style="display: flex; justify-content: space-around; width: 100%;">
+    <div style="flex: 1; text-align: center;">
+      <h3>UI/UX & API Testing</h3>
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+      <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" /><br/>
+      <img src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg" width="48" height="48" />
+    </div>
+    <div style="flex: 1; text-align: center;">
+      <h3>DevOps & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=docker,git,githubactions&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=bash,vercel,netlify&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=vite&theme=dark" />
+    </div>
+  </div>
+</div>
+
+<table border="0" style="border: none;">
+  <tr>
+    <td align="center" valign="top" width="16%">
+      <b>Languages & Web</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,python&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=php,html,css&theme=dark" />
+    </td>
+    <td align="center" valign="top" width="16%">
+      <b>Frameworks & Libraries</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,angular&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=flask,laravel,symfony&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=bootstrap,tailwind&theme=dark" />
+    </td>
+    <td align="center" valign="top" width="16%">
+      <b>Mobile Dev</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,flutter,dart&theme=dark" />
+    </td>
+    <td align="center" valign="top" width="16%">
+      <b>Databases & BaaS</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=firebase,supabase,prisma&theme=dark" />
+    </td>
+    <td align="center" valign="top" width="16%">
+      <b>UI/UX & Testing</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+      <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" /><br/>
+      <img src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg" width="48" height="48" />
+    </td>
+    <td align="center" valign="top" width="16%">
+      <b>DevOps & Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,git,githubactions&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=bash,vercel,netlify&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=vite&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+<table width="100%" border="0" style="border: none; width: 100%;">
+  <!-- LIGNE 1 : 3 COLONNES -->
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <b>Languages & Web</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,python&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=php,html,css&theme=dark" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>Frameworks & Libraries</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,angular&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=flask,laravel,symfony&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=bootstrap,tailwind&theme=dark" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>Mobile Dev</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,flutter,dart&theme=dark" />
+    </td>
+  </tr>
+
+  <!-- ESPACEMENT VERTICAL ENTRE LES DEUX LIGNES -->
+  <tr><td colspan="3"><br/></td></tr>
+
+  <!-- LIGNE 2 : 3 COLONNES -->
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <b>Databases & BaaS</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=firebase,supabase,prisma&theme=dark" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>UI/UX & Testing</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+      <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" /><br/>
+      <img src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg" width="48" height="48" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>DevOps & Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,git,githubactions&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=bash,vercel,netlify&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=vite&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Languages & Web &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frameworks & Libraries &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mobile Dev &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=javascript,typescript,python&theme=dark" /><br/><img src="https://skillicons.dev/icons?i=php,html,css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nextjs,react,angular&theme=dark" /><br/><img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" /><br/><img src="https://skillicons.dev/icons?i=flask,laravel,symfony&theme=dark" /><br/><img src="https://skillicons.dev/icons?i=bootstrap,tailwind&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,flutter,dart&theme=dark" /> |
+| **Databases & BaaS** | **UI/UX & Testing** | **DevOps & Tools** |
+| <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo&theme=dark" /><br/><img src="https://skillicons.dev/icons?i=firebase,supabase,prisma&theme=dark" /> | <div align="center"><img src="https://skillicons.dev/icons?i=figma&theme=dark" /> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=postman&theme=dark" /><br/><img src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg" width="48" height="48" /></div> | <img src="https://skillicons.dev/icons?i=docker,git,githubactions&theme=dark" /><br/><img src="https://skillicons.dev/icons?i=bash,vercel,netlify&theme=dark" /><br/><img src="https://skillicons.dev/icons?i=vite&theme=dark" /> |
 
 ---
 
@@ -146,6 +293,13 @@ Habit tracking SaaS with analytics and subscription features.
 </div>
 
 ---
+
+### 📜 Verified Certifications
+
+- **HackerRank:** Certified Software Engineer, Software Engineer Intern & Frontend Developer (React)
+- **OIF:** Mobile Application Development - Advanced (180h Intensive Program)
+- **freeCodeCamp:** JavaScript Algorithms, Frontend Libraries, Scientific Computing with Python, Data Analysis
+- **Cisco:** Introduction to Cybersecurity, English for IT 1
 
 # 📊 GitHub Analytics
 
