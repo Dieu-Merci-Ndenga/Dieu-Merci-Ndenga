@@ -170,11 +170,11 @@ Habit tracking SaaS with analytics and subscription features.
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Current Priority
 
 <div align="center">
 
-| Focus Area              | Current Objective                      |
+| Priority Area              | Current Objective                      |
 | ----------------------- | -------------------------------------- |
 | 🚀 App Development     | Building production-ready applications |
 | ⚙️ Backend Engineering  | API architecture & scalable systems    |
@@ -193,7 +193,7 @@ Habit tracking SaaS with analytics and subscription features.
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/Dieu-Merci-Ndenga">
+<a href="https://linkedin.com/in/dieu-merci-ndenga">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
