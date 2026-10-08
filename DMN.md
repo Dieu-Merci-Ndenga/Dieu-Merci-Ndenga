@@ -37,7 +37,7 @@
 
 <div align="center">
 
-### Languages & Web
+### Languages & Web 
 
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,html,css&theme=dark" />
 
