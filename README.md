@@ -66,7 +66,7 @@
 
 ### DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,bash,vercel,netlify,vite&theme=dark" />\
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,bash,vercel,netlify,vite&theme=dark" />
 
 </div>
 
@@ -200,6 +200,15 @@ Habit tracking SaaS with analytics and subscription features.
 <a href="https://dieumercinb.github.io/portfolio">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
