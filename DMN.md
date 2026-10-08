@@ -8,20 +8,6 @@
 
 <br>
 
-<p align="center">
-  <a href="https://linkedin.com/in/Dieu-Merci-Ndenga">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://dieumercinb.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-
-  <a href="mailto:dmbndenga@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 # 👨‍💻 About Me
@@ -31,38 +17,54 @@
     role: "Full-Stack & Mobile Engineer",
     location: "South Korea 🇰🇷",
     focus: [
-      "SaaS Applications",
-      "Automation Tools",
-      "Backend Architecture",
-      "Modern Cross-Platforms"
+      "Building fullstack web apps with **React/Next.js**, **Angular**, **Node.js**, and **PostgreSQL**",
+      "Developing cross-platform mobile apps using **React Native** & **Flutter**",
+      "Designing user interfaces with **Figma**, **Sketch**, and **Lunacy**",
+      "Testing and documenting APIs using **Postman** & **Insomnia**",
+      "Containerizing applications with **Docker**"
     ],
     openTo: [
       "Freelance Opportunities",
       "Startup Collaborations",
-      "Remote Roles"
+      "Remote Roles / International (**Fullstack**, **Frontend**, and **Mobile Engineering** roles)"
     ]
   }
   ```
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Frontend
+### Languages & Web
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind&theme=dark" />
-
-<br/>
-
-### Backend & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma,postgres,docker,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,html,css&theme=dark" />
 
 <br/>
 
-### Workflow & Tools
+### Frameworks & Librairies
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,nodejs,express,django,flask,laravel,symfony,bootstrap,tailwind&theme=dark" />
+
+<br/>
+
+### Mobile Development
+
+<img src="https://skillicons.dev/icons?i=react,flutter,dart&theme=dark" />
+
+### Databases & BaaS
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase,prisma&theme=dark" />
+
+### UI/UX Design & API Testing
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" />
+<img src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg" width="48" height="48" />
+
+### DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=git,githubactions,linux,postman,figma,vscode&theme=dark" />
 
@@ -176,7 +178,7 @@ Habit tracking SaaS with analytics and subscription features.
 
 ---
 
-# 📬 Contact
+# 📬 Connect with me
 
 <div align="center">
 
