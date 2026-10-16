@@ -4,7 +4,7 @@
   <strong>Software Engineer (Fullstack & Mobile)</strong> • Based in South Korea 🇰🇷
 </p>
 
-<p align="display: float; float: right;">
+<p align="center">
   <a href="https://dmnb-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/dieu-merci-ndenga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dmbndenga@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -32,7 +32,7 @@ const engineer = {
 
 ### 🛠️ Core Tech Stack
 
-<div align="center">
+<div align="display: float; float: right;">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
