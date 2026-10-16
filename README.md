@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dieu Merci Ndenga 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer (Fullstack & Mobile)</strong> • Based in South Korea 🇰🇷
+  <strong>Software Engineer (Web & Mobile)</strong> • Based in South Korea 🇰🇷
 </p>
 
 <p align="center">
