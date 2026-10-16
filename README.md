@@ -1,4 +1,4 @@
-<h1 align="center">Dieu Merci Ndenga</h1>
+<h1 align="center">Hi, I'm Dieu Merci Ndenga 👋</h1>
 
 <p align="center">
   <strong>Software Engineer (Fullstack & Mobile)</strong> • Based in South Korea 🇰🇷
