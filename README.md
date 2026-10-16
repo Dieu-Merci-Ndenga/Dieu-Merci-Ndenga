@@ -208,7 +208,7 @@ Habit tracking SaaS with analytics and subscription features.
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://dmnb.vercel.app](https://dmnb-portfolio.vercel.app" target="_blank" rel="noopener">
+<a href="https://dmnb-portfolio.vercel.app" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
