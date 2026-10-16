@@ -1,5 +1,7 @@
+<h1 align="center">Hi, I'm Dieu Merci Ndnega👋</h1>
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dieu%20Merci%20Ndenga&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Mobile%20Engineer%20|%20UI/UX%20Designer&descAlignY=62&descAlign=50"/>
+<strong>Software Engineer (Web & Mobile)</strong>
 </p>
 
 <p align="center">
@@ -14,7 +16,7 @@
 
   ```ts
   const dieuMerci = {
-    role: "Full-Stack & Mobile Engineer",
+    role: "Software Engineer (Web & Mobile) - UI/UX Mindset",
     location: "South Korea 🇰🇷",
     focus: [
       "Building fullstack web apps with **React/Next.js**, **Angular**, **Node.js**, and **PostgreSQL**",
