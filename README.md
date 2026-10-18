@@ -98,9 +98,9 @@ const engineer = {
 ### 📜 Verified Certifications & Credentials
 
 * **HackerRank:** Software Engineer, Frontend Developer (React)
-* **OIF:** Mobile Application Development — Advanced Intensive Program (180h)
-* **freeCodeCamp:** JavaScript Algorithms, Frontend Libraries, Scientific Computing with Python
-* **Cisco:** Introduction to Cybersecurity
+* **OIF:** Mobile Application Development — Advanced Intensive Program (Flutter/Dart)
+* **freeCodeCamp:** Legacy Full-Stack, Scientific Computing with Py & Data Analysis with Py
+* **Cisco:** Introduction to Cybersecurity & English for IT 1
 
 ---
 
