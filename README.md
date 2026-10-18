@@ -48,16 +48,18 @@ const engineer = {
 <tr>
 <td width="33%" valign="top">
 
-#### 🧾 AI Expense Tracker
-*Automated receipt processing & financial analytics platform.*
+#### 🧾 Relay — Webhook Reliability Platform
+*A platform that allows developers to receive webhook events, track their delivery, understand failures, and retry processing without creating duplicates*
 
-* **Tech:** Next.js, TypeScript, PostgreSQL, Prisma, Tailwind CSS
-* **Highlights:**
-  * Implemented OCR pipeline for automated invoice & receipt data extraction.
-  * Designed type-safe database schemas with Prisma & PostgreSQL.
-  * Optimized dashboard rendering performance for real-time aggregation.
+* **Tech:** NestJS, TypeScript, PostgreSQL, Redis, BullMQ, Docker
+* **Features:**
+  * Receiving events via an API with signature validation.
+  * Queue with automatic retries and progressive timeouts (exponential backoff).
+  * Idempotence: processing the same event multiple times without repeating its effects.
+  * History of deliveries, errors, durations, and statuses.
+  * Manual retry of failed events and a queue for permanently failed events (dead-letter queue).
 
-[📦 Source Code](https://github.com/Dieu-Merci-Ndenga) • [🚀 Live Demo](https://expense-tracker-demo.vercel.app)
+[📦 Source Code](https://github.com/Dieu-Merci-Ndenga/relay) • [🚀 Live Demo](https://relay-api-brv0.onrender.com)
 
 </td>
 <td width="33%" valign="top">
