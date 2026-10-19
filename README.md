@@ -63,17 +63,16 @@ const engineer = {
 <td width="33%" valign="top">
 
 
+
 #### 📱 FieldSync — Offline-First Operations App
-*Reliable field operations management with offline data access and resilient synchronization.*
+*Offline-first field operations with reliable data synchronization.*
 
 **Status:** 🚧 In Development
 
 * **Tech:** React Native, TypeScript, SQLite, NestJS, PostgreSQL
 * **Highlights:**
-  * Developing an offline-first workflow for accessing and updating field tasks without an internet connection.
-  * Implementing local data persistence and queued synchronization for offline changes.
-  * Designing duplicate-submission prevention and conflict resolution to maintain data consistency across devices.
-  * Building a REST API for task management, operational updates, and synchronization with the backend.
+  * Designing offline data persistence and synchronization workflows.
+  * Addressing duplicate operations and concurrent data updates.
 
 [📦 Source Code](https://github.com/Dieu-Merci-Ndenga) • [🚀 Live Demo](https://job-matcher-demo.vercel.app)
 
