@@ -79,15 +79,17 @@ const engineer = {
 </td>
 <td width="33%" valign="top">
 
-#### 🔥 Habit Forge SaaS
-*Habit analytics platform with recurring billing integration.*
 
-* **Tech:** Next.js, TypeScript, Stripe API, PostgreSQL
+#### 🌐 Developer Portfolio
+*Interactive portfolio showcasing projects, technical expertise, and professional experience.*
+
+**Status:** 🚧 In Development
+
+* **Tech:** Next.js, TypeScript, Three.js, Tailwind CSS, Resend
 * **Highlights:**
-  * Secure Stripe subscription lifecycle integration & webhook handlers.
-  * Custom interactive data visualization for habit retention metrics.
-  * Fully responsive, accessible, and atomic UI component design.
-
+  * Developing interactive 3D experiences with Three.js.
+  * Integrating Resend for contact form email delivery.
+  * 
 [📦 Source Code](https://github.com/Dieu-Merci-Ndenga) • [🚀 Live Demo](https://habit-forge-demo.vercel.app)
 
 </td>
