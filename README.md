@@ -81,15 +81,18 @@ const engineer = {
 
 
 
+
 #### 🌐 Developer Portfolio
-*Interactive 3D portfolio showcasing projects and expertise.*
+*Interactive portfolio showcasing projects, technical expertise, and professional experience.*
 
 **Status:** 🚧 In Development
 
 * **Tech:** Next.js, TypeScript, Three.js, Tailwind CSS, Resend
 * **Highlights:**
-  * Developing interactive 3D experiences.
-  * Integrating email delivery with Resend.
+  * Developing immersive 3D interactions and animations with Three.js.
+  * Building a responsive portfolio experience with Tailwind CSS.
+  * Integrating Resend for reliable contact form email delivery.
+  
  
 [📦 Source Code](https://github.com/Dieu-Merci-Ndenga) • [🚀 Live Demo](https://habit-forge-demo.vercel.app)
 
