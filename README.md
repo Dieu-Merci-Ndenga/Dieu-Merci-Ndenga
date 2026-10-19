@@ -62,14 +62,18 @@ const engineer = {
 </td>
 <td width="33%" valign="top">
 
-#### 🔍 Freelance Job Matcher
-*Real-time job aggregator & skill-matching engine.*
 
-* **Tech:** Next.js, NestJS, PostgreSQL, Redis
+#### 📱 FieldSync — Offline-First Operations App
+*Reliable field operations management with offline data access and resilient synchronization.*
+
+**Status:** 🚧 In Development
+
+* **Tech:** React Native, TypeScript, SQLite, NestJS, PostgreSQL
 * **Highlights:**
-  * Built microservice-inspired architecture for resilient data fetching.
-  * Implemented Redis caching strategy to reduce DB read latencies.
-  * Event-driven matching system for automated candidate-project pairing.
+  * Developing an offline-first workflow for accessing and updating field tasks without an internet connection.
+  * Implementing local data persistence and queued synchronization for offline changes.
+  * Designing duplicate-submission prevention and conflict resolution to maintain data consistency across devices.
+  * Building a REST API for task management, operational updates, and synchronization with the backend.
 
 [📦 Source Code](https://github.com/Dieu-Merci-Ndenga) • [🚀 Live Demo](https://job-matcher-demo.vercel.app)
 
