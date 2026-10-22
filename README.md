@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dmnb-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/dieu-merci-ndenga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dmbndenga@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
