@@ -77,26 +77,7 @@ const engineer = {
 [📦 Source Code](https://github.com/Dieu-Merci-Ndenga) • [🚀 Live Demo](https://job-matcher-demo.vercel.app)
 
 </td>
-<td width="33%" valign="top">
 
-
-
-
-#### 🌐 Developer Portfolio
-*Interactive portfolio showcasing projects, technical expertise, and professional experience.*
-
-**Status:** 🚧 In Development
-
-* **Tech:** Next.js, TypeScript, Three.js, Tailwind CSS, Resend
-* **Highlights:**
-  * Developing immersive 3D interactions and animations with Three.js.
-  * Building a responsive portfolio experience with Tailwind CSS.
-  * Integrating Resend for reliable contact form email delivery.
-  
- 
-[📦 Source Code](https://github.com/Dieu-Merci-Ndenga) • [🚀 Live Demo](https://habit-forge-demo.vercel.app)
-
-</td>
 </tr>
 </table>
 
